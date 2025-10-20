@@ -1,4 +1,9 @@
 EX-21-POINTERS
+
+## NAME: DEEPAK.V
+
+## REGISTER NO: 25017595
+
 # AIM:
 Write a C program to convert a 23.65 into 25 using pointer
 
